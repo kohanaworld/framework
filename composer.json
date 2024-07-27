@@ -1,20 +1,20 @@
 {
     "_readme":     "NOTE: see readme for COMPOSER_ROOT_VERSION instructions if you have dependency issues",
-	"name":        "kohana/core",
+	"name":        "kohana/framework",
 	"description": "Core system classes for the Kohana application framework",
-	"homepage":    "http://kohanaframework.org",
+	"homepage":    "http://kohanaframework.dev",
 	"license":     "BSD-3-Clause",
 	"keywords":    ["kohana", "framework"],
 	"authors": [
 		{
 			"name":     "Kohana Team",
-			"email":    "team@kohanaframework.org",
-			"homepage": "http://kohanaframework.org/team",
+			"email":    "team@kohanaframework.dev",
+			"homepage": "http://kohanaframework.dev",
 			"role":     "developer"
 		}
 	],
 	"support": {
-		"issues":   "http://dev.kohanaframework.org",
+		"issues":   "https://github.com/kohanaworld/framework/pulls",
 		"forum":    "http://forum.kohanaframework.org",
 		"irc":      "irc://irc.freenode.net/kohana",
 		"source":   "http://github.com/kohana/core"
